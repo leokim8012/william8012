@@ -14,3 +14,5 @@ I believe everyone can make their imagination true via **Data to End-User** soft
 - 📫 kim.kw8012@gmail.com
 - 📷 @k._.w00
 - 📖 "One inspired by love and guided by knowledge"
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwilliam8012&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
