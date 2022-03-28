@@ -1,16 +1,16 @@
 ### Hi there 👋
+I'm  Software Developer Kim, KwanWoo.
+I believe everyone can make their imagination true via **Data to End-User** software.
 
-<!--
-**william8012/william8012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 B.S.  UC Berkeley
+- 🪖 U.S Forces Korea - Katusa (2020.10.~2022.03.)
+- 🌱 Plask - Software Developer (2020.4.~2020.10.)
+- 🌱 Naver Z Corp - Software Developer (2020.02.~2020.04.)
+- 🌱 Ahrasoft - Software Engineer (2018.02.~2019.10.)
+- 🥉 KOI (Korea Olympiad In Information) :: National Bronze Medal
+- 🥇 KOI (Korea Olympiad In Information) :: State Gold Medal
+- 🤖 Currently Working on ML (Vision, Motion)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 kim.kw8012@gmail.com
+- 📷 @k._.w00
+- 📖 "One inspired by love and guided by knowledge"
