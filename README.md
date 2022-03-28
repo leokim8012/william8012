@@ -42,11 +42,11 @@
 | 🔭 B.S.  UC Berkeley :: Major in Computer Science|
 | 🪖 U.S Forces Korea :: Katusa (2020.10.~2022.03.) |
 | 🌱 Plask :: Software Developer (2020.4.~2020.10.)|
-| 🌱 Naver Z Corp :: Software Developer (2020.02.~2020.04.) |
+| 🌱 Naver Z Corp :: Software Developer (2020.01.~2020.04.) |
 | 🌱 Ahrasoft :: Software Engineer (2018.02.~2019.10.) |
-| 🥉 KOI (Korea Olympiad In Information) :: National Bronze Medal |
-| 🥇 KOI (Korea Olympiad In Information) :: State Gold Medal |
-| 🤖 Currently Working on ML (Vision, Motion) |
+| 🥉 Korea Olympiad In Information :: National Bronze Medal |
+| 🥇 Korea Olympiad In Information :: State Gold Medal |
+| 🤖 Currently Working on ML |
 
   
 </div>
