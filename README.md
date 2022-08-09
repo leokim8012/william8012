@@ -40,7 +40,7 @@
 | 🚀 Me    |
 | -------------  |
 | 🔭 B.S.  UC Berkeley :: Major in Computer Science|
-| 🌱 Plask :: Software Developer (2020.4.~ Present)|
+| 🌱 Plask :: Graphic Software Engineer (2020.4.~ Present)|
 | 🪖 U.S Forces Korea :: Katusa (2020.10.~2022.03.) |
 | 🌱 Naver Z Corp :: Software Developer (2020.01.~2020.04.) |
 | 🌱 Ahrasoft :: Software Engineer (2018.02.~2019.10.) |
