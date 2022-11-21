@@ -40,11 +40,11 @@
 | -------------  |
 | 🌱 Plask :: Graphic Software Engineer (2020.4.~ Present)|
 | 🪖 U.S Forces Korea :: Katusa (2020.10.~2022.03.) |
-| 🌱 Naver Z Corp :: Software Developer (2020.01.~2020.04.) |
+| 🌱 Naver Z Corp :: Frontend Engineer (2020.01.~2020.04.) |
 | 🌱 Ahrasoft :: Software Engineer (2018.02.~2019.10.) |
 | 🥉 Korea Olympiad In Information :: National Bronze Medal |
 | 🥇 Korea Olympiad In Information :: State Gold Medal |
-| 🤖 Currently Working on Graphic Engineering |
+| 🤖 Currently Working on Graphics Engineering |
 
   
 </div>
