@@ -56,7 +56,7 @@
 
 <h3 align="center">💌 Contacts</h3>
 <div align="center" style="text-align:center">
-  <a href="https://www.instagram.com/k._.w00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k._.w00/"/></a>
+  <a href="https://www.instagram.com/k._.w00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rhksdnrla/"/></a>
   <a href="mailto:kim.kw8012@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kim.kw8012@gmail.com"/></a>
 </div>
 
