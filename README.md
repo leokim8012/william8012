@@ -1,10 +1,10 @@
-<div style="text-align:center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/700px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg" style="width:100%" />
-</div>
-<h2 align="center">I believe everyone can make their imagination true via <strong>Data to End-User</strong> software.</h2>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/700px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg" style="width:100%" />
+
+<h2 align="start">I believe everyone can make their imagination true via <strong>Data to End-User</strong> software.</h2>
+
+<h3 align="start">🛠 Tech Stack</h3>
+<p align="start">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -26,15 +26,15 @@
 <br/>
 
 
-<h3 align="center">🪄 Blog 🪄</h3>
-<p align="center">  
+<h3 align="start">🪄 Blog</h3>
+<p align="start">  
   <a href="https://woozlabs.com"><img src="https://img.shields.io/badge/WoozLabs-bf88ff?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://woozlabs.com"/></a>
 </p>
-<p align="center">  
+<p align="start">  
   <a href="https://drive.google.com/file/d/1emAD_0HPYez7rk18RHKi7YpNcy3bnRX1/view?usp=share_link"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=&link=https://drive.google.com/file/d/1-LRtKz06qkKwPJlhuUEtyasfaeV72oJa/view?usp=sharing"/></a>
 <p>
   
-<div align="center" style="text-align:center">
+<div align="start" style="text-align:start">
  
 | 🚀 Me    |
 | -------------  |
@@ -53,17 +53,17 @@
 <br/>
 
 
-<h3 align="center">💌 Contacts</h3>
-<div align="center" style="text-align:center">
+<h3 align="start">💌 Contacts</h3>
+<div align="start" style="text-align:start">
   <a href="https://www.instagram.com/rhksdnrla/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rhksdnrla/"/></a>
   <a href="mailto:kim.kw8012@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kim.kw8012@gmail.com"/></a>
 </div>
 
 <br/>
 
-<p align="center">
+<p align="start">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwilliam8012&count_bg=%23bf88ff&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
-<h3 align="center">"One inspired by love and guided by knowledge"</h3>
+<h3 align="start">"One inspired by love and guided by knowledge"</h3>
 
