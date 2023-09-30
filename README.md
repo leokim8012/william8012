@@ -3,24 +3,6 @@
 
 <h2 align="center">One inspired by love and guided by knowledge</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GoogleCloud-4285f4?style=for-the-badge&logo=GoogleCloud&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp 
-</p>
-
 <br/>
 
 <div align="center" style="text-align:center">
@@ -37,12 +19,9 @@
 </div>
 
 
+<br />
 
 
-
-
-
-<h3 align="center">📪 Contacts</h3>
 <div align="center" style="text-align:center">
   <a href="https://woozlabs.com"><img src="https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=Github&link=https://woozlabs.com"/></a>  
   <a href="https://drive.google.com/file/d/1emAD_0HPYez7rk18RHKi7YpNcy3bnRX1/view?usp=share_link"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=&link=https://drive.google.com/file/d/1-LRtKz06qkKwPJlhuUEtyasfaeV72oJa/view?usp=sharing"/></a>
