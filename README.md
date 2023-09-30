@@ -33,7 +33,7 @@
   
 <div align="center" style="text-align:center">
  
-| 🚀 Me    |
+
 | -------------  |
 | 🌱 Plask :: Graphic Software Engineer (2020.4.~ Present)|
 | 🌱 Naver Z Corp :: Frontend Engineer (2020.01.~2020.04.) |
