@@ -1,7 +1,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/700px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg" style="width:100%" />
 
-<h3 align="center">One inspired by love and guided by knowledge</h3>
+<h2 align="center">One inspired by love and guided by knowledge</h2>
 
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
@@ -50,6 +50,11 @@
 <br/>
 
 
+
+
+
+<h3 align="center">I believe everyone can make their imagination true via <strong>Data to End-User</strong> software.</h3>
+
 <h3 align="center">📪 Contacts</h3>
 <div align="center" style="text-align:center">
   <a href="https://www.instagram.com/rhksdnrla/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rhksdnrla/"/></a>
@@ -62,8 +67,3 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwilliam8012&count_bg=%23bf88ff&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
-
-
-
-
-<h2 align="center">I believe everyone can make their imagination true via <strong>Data to End-User</strong> software.</h2>
