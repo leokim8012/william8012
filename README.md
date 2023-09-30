@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=bf88ff&height=148&section=header&text=Leo%20Kim&fontSize=64)
+![header](https://capsule-render.vercel.app/api?type=rect&color=000&fontColor=fff&height=128&section=header&text=Leo%20Kim&fontSize=48)
 
 <h2 align="center">I believe everyone can make their imagination true via <strong>Data to End-User</strong> software.</h2>
 
