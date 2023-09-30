@@ -2,6 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/700px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg" style="width:100%" />
 
 <h2 align="center">One inspired by love and guided by knowledge</h2>
+<h6 align="center" style="color:gray">I believe everyone can make their imagination true via <strong>Data to End-User</strong> software.</h6>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -41,7 +42,6 @@
 
 
 
-<h3 align="center">I believe everyone can make their imagination true via <strong>Data to End-User</strong> software.</h3>
 
 <h3 align="center">📪 Contacts</h3>
 <div align="center" style="text-align:center">
