@@ -32,8 +32,9 @@
 <p>
   
 <div align="center" style="text-align:center">
- ||
-|--|
+
+| Experience |
+| -------------  |
 | 🌱 Plask :: Graphic Software Engineer (2020.4.~ Present)|
 | 🌱 Naver Z Corp :: Frontend Engineer (2020.01.~2020.04.) |
 | 🌱 Ahrasoft :: Software Engineer (2018.02.~2019.10.) |
