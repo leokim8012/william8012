@@ -24,8 +24,8 @@
 
 <div align="center" style="text-align:center">
   <a href="https://woozlabs.com"><img src="https://img.shields.io/badge/WoozLabs-000?style=for-the-badge&link=https://woozlabs.com"/></a>  
-  <a href="https://blog.woozlabs.com"><img src="https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=Github&link=https://woozlabs.com"/></a>  
   <a href="https://drive.google.com/file/d/1emAD_0HPYez7rk18RHKi7YpNcy3bnRX1/view?usp=share_link"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=&link=https://drive.google.com/file/d/1-LRtKz06qkKwPJlhuUEtyasfaeV72oJa/view?usp=sharing"/></a>
+  <a href="https://blog.woozlabs.com"><img src="https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=Github&link=https://woozlabs.com"/></a>  
   <a href="https://www.instagram.com/rhksdnrla/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/rhksdnrla/"/></a>
   <a href="mailto:kim.kw8012@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kim.kw8012@gmail.com"/></a>
 </div>
