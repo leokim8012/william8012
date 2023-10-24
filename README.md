@@ -11,7 +11,7 @@
 | -------------  |
 | 🌱 Stealth :: Software Engineer (2020.10.~ Present)|
 | 🌱 Plask :: Graphic Software Engineer (2020.04.~ 2023.05)|
-| 🌱 Naver Z Corp :: Software Engineer (2020.01.~2020.04.) |
+| 🌱 Naver Z Corp :: Software Engineer (2020.01.~2020.04.) |
 | 🌱 Ahrasoft :: Software Engineer (2018.02.~2019.10.) |
 | 🥉 Korea Olympiad In Information :: National Bronze Medal |
 | 🥇 Korea Olympiad In Information :: State Gold Medal |
