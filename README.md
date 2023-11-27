@@ -3,21 +3,6 @@
 
 <h1 align="center">One inspired by love and guided by knowledge</h1>
 
-<br/>
-
-<div align="center" style="text-align:center">
-
-| Experience |
-| -------------  |
-| 🌱 Stealth :: Software Engineer (2020.10.~ Present)|
-| 🌱 Plask :: Graphic Software Engineer (2020.04.~ 2023.05)|
-| 🌱 Naver Z Corp :: Software Engineer (2020.01.~2020.04.) |
-| 🌱 Ahrasoft :: Software Engineer (2018.02.~2019.10.) |
-| 🥉 Korea Olympiad In Information :: National Bronze Medal |
-| 🥇 Korea Olympiad In Information :: State Gold Medal |
-  
-</div>
-
 
 <br />
 
@@ -35,6 +20,3 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwilliam8012&count_bg=%23bf88ff&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
-
-
-<h3 align="center" style="color:gray">I believe everyone can make their imagination true via <strong>Data to End-User</strong> software.</h3>
